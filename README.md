@@ -65,9 +65,10 @@ A conversational movie ticket booking agent integrated with **WhatsApp** using *
 
 ## Future Enhancements
 
--Add real payment gateway integration for ticket booking.
--Implement seat selection with real-time availability.
--Extend to multiple theaters and cities.
--Add multi-language support for a wider audience.
+- Add real payment gateway integration for ticket booking.
+- Implement seat selection with real-time availability.
+- Extend to multiple theaters and cities.
+- Add multi-language support for a wider audience.
+
 
 
